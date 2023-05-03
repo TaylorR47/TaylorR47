@@ -1,3 +1,3 @@
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="center" src="/metrics.plugin.stargazers.svg" alt="stargazers" width="400">
-<img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="400">
+<p align="center"><img src="/github-metrics.svg"></p>
+<p align="center"><img src="/metrics.plugin.stargazers.svg"></p>
+<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg"></p>
