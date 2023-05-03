@@ -1,3 +1,3 @@
-![Metrics](/github-metrics.svg)
-![Metrics Stargazers](/metrics.plugin.stargazers.svg)
-![Metrics Calendar](/metrics.plugin.isocalendar.fullyear.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/metrics.plugin.stargazers.svg" alt="stargazers" width="400">
+<img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="400">
