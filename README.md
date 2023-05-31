@@ -28,3 +28,6 @@ I am a BackEnd developer in Vietnam, my other name is Nguyễn Hiếu.
 <a href="https://github.com/Taylor-pm-pl/Clothes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Taylor-pm-pl&repo=Clothes&theme=codeSTACKr" />
 </a>
+<a href="https://github.com/Taylor-pm-pl/SimplySickles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Taylor-pm-pl&repo=SimplySickles&theme=codeSTACKr" />
+</a>
